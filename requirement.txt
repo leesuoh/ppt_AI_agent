@@ -1,0 +1,7 @@
+gradio==4.31.3
+openai
+ffmpeg-python
+python-pptx
+moviepy
+python-dotenv
+poppler-utils

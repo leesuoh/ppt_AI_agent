@@ -18,3 +18,4 @@ builder.add_edge("tts_mp3", "make_video")
 builder.add_edge("make_video", END)
 
 lecture_graph = builder.compile()
+
